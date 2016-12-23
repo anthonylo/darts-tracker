@@ -2,9 +2,9 @@
 
 # Eclipse #
 .metadata
-/bin/**
-/tmp/**
-/tmp/**/*
+**/bin/**
+**/tmp/**
+**/tmp/**/*
 
 # Intellij #
 .idea/**
@@ -15,13 +15,13 @@
 *.orig
 
 # Build Files #
-/log/**
+**/log/**
 *.log
-/target/**
+**/target/**
 .gradle/**
-/build/**
-/bin/**
-/deploy/**
+**/build/**
+**/bin/**
+**/deploy/**
 
 # Package Files #
 *.jar
